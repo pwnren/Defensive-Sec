@@ -1,5 +1,5 @@
 # Defensive-Sec
-Random Tools, websites, references for Defensive Security Ops
+Random Tools, references for Defensive Security Ops
 
 Websites:
 
